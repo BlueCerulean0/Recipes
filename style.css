@@ -1,0 +1,18 @@
+.heading {
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-justify: auto;
+    font-size: 60px;
+}
+
+#backG {
+    background-color: #131b2b;
+}
+
+h1, h2, h3, h4, h5, ul, ol, a, p {
+    color: white;
+}
+
